@@ -1,7 +1,5 @@
 # TrekTask - Task Management API
 
-![TrekTask Logo](https://via.placeholder.com/150) <!-- Add your logo here -->
-
 TrekTask is a robust and scalable **Task Management API** designed to help users organize their tasks, projects, and collaborations efficiently. Built with modern development practices, TrekTask includes features like **authentication**, **rate limiting**, and **logging** to ensure security, reliability, and performance.
 
 ---
